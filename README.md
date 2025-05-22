@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashraful505
+- 👋 Hi, I’m Ashraful Alam
 
 <!---
 Ashraful505/Ashraful505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
